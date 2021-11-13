@@ -1,0 +1,4 @@
+#name: Reverse Polarity
+#Description:
+I got a new hard drive just to hold my flag, but I'm afraid that it rotted. What do I do? The only thing I could get off of it was this: 
+01001010 01010101 01100110 01101100 01100001 01100111 01111011 01000010 01101001 01110100 00100100 01011111 00110100 01101100 01101001 01110000 01110000 01101001 01101110 01111101
