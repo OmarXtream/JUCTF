@@ -1,0 +1,3 @@
+open qrcode, get a 'SlVmbGFne24wX2JvZHlfZjByZ2V0X3FyX2NvZGV9'
+
+decode it to get 'JUflag{n0_body_f0rget_qr_code}'
