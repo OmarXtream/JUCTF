@@ -1,0 +1,1 @@
+it`s a Test file and you can read it by notepad or using command 'cat' in linux
