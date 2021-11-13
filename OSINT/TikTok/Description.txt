@@ -1,0 +1,6 @@
+#name: TikTok
+#Description: When was the first tiktok video by "hattan.hacker515" created?
+#Note: 
+The timezone of your answer must be UTC and the time format must be 24-hour format.
+
+    JUflag{DD-MM-YYYY_HH:mm:ss}

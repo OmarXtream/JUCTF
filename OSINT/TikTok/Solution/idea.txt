@@ -1,0 +1,5 @@
+the idea it`s get a create time for tiktok video
+
+it`s give us a UNIX-Timestamp we convert it to UTC time
+
+and put it in flag format JUflag{}
