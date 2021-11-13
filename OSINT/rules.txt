@@ -9,4 +9,6 @@ _
 _
 -- Solution Folder contains:
 - idea 
+- Flag.txt
+- Solver.py (if exists)
 
