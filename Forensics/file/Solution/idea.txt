@@ -1,0 +1,4 @@
+can you use command 'file' 
+by linux
+
+to get a comment with encode base64
