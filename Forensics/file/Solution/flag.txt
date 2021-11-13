@@ -1,2 +1,2 @@
 flag: JUflag{fiL3#_go0od}
-flag with encode: SlVmbGFne2ZpTDMjX2dvMG9kfQ==
+flag encoded base64: SlVmbGFne2ZpTDMjX2dvMG9kfQ==
