@@ -1,0 +1,11 @@
+Required:
+_
+-Description.txt contains:
+#name:
+#Description: 
+#remote-server: (for web)
+_
+-challenge file (source code)
+_
+-- Solution Folder contains:
+- idea 
