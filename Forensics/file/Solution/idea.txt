@@ -1,4 +1,3 @@
-can you use command 'file' 
-by linux
+you can use command 'file' by linux
 
-to get a comment with encode base64
+the flag is hidden in comment base64 encoded
