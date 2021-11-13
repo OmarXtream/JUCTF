@@ -1,4 +1,4 @@
-# JUCTF 
+# JUCTF#1 
 ## Jazan University CTF challenges ( Level: easy )
 here are all the challenges and solutions for all the challenges in the JUCTF. Feel free to use them
 
