@@ -1,1 +1,1 @@
-a cipher is: birany encoded
+a cipher is: binary encoded
