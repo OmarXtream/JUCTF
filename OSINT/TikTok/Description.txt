@@ -1,5 +1,5 @@
 #name: TikTok
-#Description: When was the first tiktok video by "hattan.hacker515" created?
+#Description: When was the first tiktok video by "attacker_ctf_flag" created?
 #Note: 
 The timezone of your answer must be UTC and the time format must be 24-hour format.
 
