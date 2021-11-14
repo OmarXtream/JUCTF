@@ -1,0 +1,5 @@
+#name: wanna cry
+#Description: ha ha ha i encrypt your file please don't cry just pay and i gave you the kay :)
+note:
+Cipheris:ASCII Shift Cipher
+shift: md5(f1c1592588411002af340cbaedd6fc33)
