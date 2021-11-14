@@ -1,0 +1,2 @@
+#Name: Octal
+#Description: My friend Samuel found these weird numbers on a paper next to his telegraph machine can you figure out what it means?
