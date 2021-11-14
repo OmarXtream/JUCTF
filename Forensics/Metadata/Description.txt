@@ -1,0 +1,2 @@
+#Name: Metadata
+#Description: Someone said this image has hidden information on its metadata exif info can you figure it out?
