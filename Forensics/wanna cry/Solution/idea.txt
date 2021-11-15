@@ -1,0 +1,4 @@
+the file hex encrypted by xor cipher with cry key
+1-decrypt it and save the file name same old but without .encrypt
+2-crack the zip file with hashcat or john
+zip password is :cry4me
