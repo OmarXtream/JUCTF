@@ -1,0 +1,6 @@
+#Name: Reverse
+#Description: In the official Jazan University Twitter account following list, there is an account that starts with the letter (P). Get this account and write its username in reverse.
+
+#Note: 
+Flag Format : JUflag{username in reverse}
+Username is Case Sensitive

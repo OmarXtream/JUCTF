@@ -1,0 +1,1 @@
+These numbers are in octal you have to decode it then decode the morse code
