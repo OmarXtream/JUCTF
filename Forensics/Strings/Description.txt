@@ -1,2 +1,0 @@
-#Name: Strings
-#Description: A friend sent me this cute cat picture but he said there is something inside it! ... what does he mean?

@@ -1,3 +1,0 @@
-#name: wanna cry
-#Description:  ha ha ha i encrypt your file by strong Cipher start with X, please don't cry just pay and i will give you the key :)
-note: key: md5(5054d049935d6f95316f68d1bef528af)
