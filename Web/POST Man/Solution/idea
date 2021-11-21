@@ -1,0 +1,7 @@
+the idea is to send a POST request.
+using tools such as: 
+https://www.postman.com/
+https://portswigger.net/burp
+
+Or using curl command :
+curl -X POST http://postman.juctf.tk/
