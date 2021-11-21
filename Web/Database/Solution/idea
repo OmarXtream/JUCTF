@@ -1,3 +1,7 @@
 SQL injection.
 Payload:
 ' OR 1 = 1 -- -
+
+more explaintion at :
+https://sechow.com/bricks/docs/login-1.html
+https://www.youtube.com/watch?v=mCo6ajvBv50
