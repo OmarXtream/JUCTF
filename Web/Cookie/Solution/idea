@@ -1,2 +1,9 @@
 the idea is to make the players learn how to change the values of the cookies 
 change the cookies value to any number to get the flag.
+
+you can change it using tools such as :
+https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
+
+Or you can do it manually :
+Right Click -> inspect-> Application-> Cookies
+
