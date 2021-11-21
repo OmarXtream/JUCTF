@@ -3,3 +3,10 @@ the idea it`s get a create time for tiktok video
 it`s give us a UNIX-Timestamp we convert it to UTC time
 
 and put it in flag format JUflag{}
+_________________________________________
+you can find the time in the source of the tiktok
+view-source:https://www.tiktok.com/@attacker_ctf_flag
+
+desc":"#JUCTF","createTime":"1636802409"
+
+just take "1636802409" and convert it to UTC time :)
